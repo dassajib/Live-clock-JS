@@ -1,0 +1,23 @@
+.container {
+    border: 1px solid;
+    margin-top: 10rem;
+    padding: 6rem 0px;
+    border-radius: 20px;
+    background: black;
+}
+
+span {
+    font-size: 3rem;
+    letter-spacing: 4px;
+}
+
+h1 {
+    color: wheat;
+    text-align: center;
+}
+
+small {
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+}
